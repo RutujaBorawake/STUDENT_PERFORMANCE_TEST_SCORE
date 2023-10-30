@@ -19,12 +19,12 @@
 Use of various classification models like Liner Regression, Decision Tree, Random Forest, XGBoost, MLPClassifier was done. Linear regression was selected as best model from above. The linear regression model provided 87% accuracy in training. Testing accuracy for model was 88%. 80% data was used for training and 20% data was used for testing. After Providing various details the model will predict the math score for student.
 
 ## Software Requirements ##
-Python 3.10.7
-Visual Studio Code
-Git Cli
-Jupyter Notebook
-AWS account
-GitHub account
+- Python 3.10.7
+- Visual Studio Code
+- Git Cli
+- Jupyter Notebook
+- AWS account
+- GitHub account
 
 ## Life cycle of Machine learning Project ##
 
